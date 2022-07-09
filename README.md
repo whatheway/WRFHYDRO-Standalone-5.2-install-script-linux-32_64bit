@@ -35,3 +35,5 @@ Must be installed with GNU compiler, it will not work with other compilers.
 ### - Special thanks to  Youtube's meteoadriatic, GitHub user jamal919, University of Manchester's  Doug L, University of Tunis El Manar's Hosni S.
 
 
+### Sponsorships and donations accepted but NOT required
+[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/whatheway)
